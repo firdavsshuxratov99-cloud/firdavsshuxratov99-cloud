@@ -62,11 +62,10 @@
 ---
 
 ### 📊 GitHub Stats
-*(Stats bloklari to'g'ri ko'rinishi uchun quyidagi havoladagi `firdavsshuxratov` so'zini aniq GitHub username'ingiz bilan almashtiring)*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=firdavsshuxratov&show_icons=true&theme=tokyonight" alt="Firdavs's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=firdavsshuxratov99-cloud&show_icons=true&theme=tokyonight" alt="Firdavs's GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firdavsshuxratov&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firdavsshuxratov99-cloud&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
